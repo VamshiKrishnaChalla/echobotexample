@@ -1,0 +1,5 @@
+bot:
+BOT_TOKEN: "5601481368:AAEVchNDykkiShpfR3J_YXSfW0o8ZnRKWFI"
+BOT_USERNAME: "ipoReminderBot"
+server:
+PORT: 5000
